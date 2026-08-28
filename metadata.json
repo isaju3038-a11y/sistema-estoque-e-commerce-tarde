@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Controle de Estoque",
+  "description": "Sistema de controle de estoque com cadastro de itens, alertas de estoque mínimo e integração com banco de dados Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
